@@ -1,0 +1,9 @@
+{
+    "best_hyperparameters": {
+        "threshold_tau": 0.1,
+        "learning_rate_z": 0.01,
+        "learning_rate": 0.01,
+        "l2norm_bound": 0.1,
+        "batch_size": 32
+    }
+}
